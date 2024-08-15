@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MinesweeperDemo:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MinesweeperDemo_jar</output-path>
+    <root id="archive" name="MinesweeperDemo.jar">
+      <element id="module-output" name="MinesweeperDemo" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/jogl-all.jar" path-in-jar="/" />
+      <element id="library" level="project" name="jogl-java-src" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/gluegen-rt.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/gluegen-rt-natives-windows-i586.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/jogl-all-natives-windows-i586.jar" path-in-jar="/" />
+      <element id="library" level="project" name="gluegen-java-src" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/gluegen-rt-natives-windows-amd64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/jogl-all-natives-windows-amd64.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
